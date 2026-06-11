@@ -29,7 +29,7 @@ brand logo files.
 ## Layout Plan
 
 - A hand-drawn sketch of the home page:
-  **Sketch:** ![Layout Sketch](sketch.jpg)
+  **Sketch:** ![Layout Sketch](images/sketch.jpg)
 
 - The written description of the layout you gave to AI as your starting prompt
   Prompt:
