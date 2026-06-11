@@ -166,12 +166,12 @@ contact information or reaches out directly.
 
 ## 10. Timeline
 
-| Milestone                 | Date      |
-| ------------------------- | --------- |
-| Proposal and PRD complete | 6/11      |
-| HTML structure complete   | 6/11      |
-| CSS and styling complete  | 6/11      |
-| Deployed and live         | 6/12      |
-| Final submission          | 6/12      |
-| Client feedback + polish  | 6/13–6/14 |
-| MP1 Showcase              | 6/15      |
+| Milestone                 | Date |
+| ------------------------- | ---- |
+| Proposal and PRD complete | 6/11 |
+| HTML structure complete   | 6/11 |
+| CSS and styling complete  | 6/11 |
+| Deployed and live         | 6/12 |
+| Final submission          | 6/12 |
+| Client feedback + polish  | 6/12 |
+| MP1 Showcase              | 6/15 |
